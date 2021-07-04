@@ -3,4 +3,5 @@
 	url = https://github.com/geerlingguy/ansible-role-ansible
 [submodule "roles/ansible-role-locales"]
 	path = roles/ansible-role-locales
-	url = https://git.senbonzakura.net/Mage/ansible-role-locales
+	url = ssh://gitea@git.senbonzakura.net:2222/Mage/ansible-role-locales.git
+	branch = master
