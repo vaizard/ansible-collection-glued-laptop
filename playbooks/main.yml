@@ -1,0 +1,5 @@
+- name: Set up a workstation
+  collections:
+    - glued.laptop
+  roles:
+    - role: ansible-role-ansible

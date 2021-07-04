@@ -1,0 +1,6 @@
+[submodule "roles/ansible-role-ansible"]
+	path = roles/ansible-role-ansible
+	url = https://github.com/geerlingguy/ansible-role-ansible
+[submodule "roles/ansible-role-locales"]
+	path = roles/ansible-role-locales
+	url = https://git.senbonzakura.net/Mage/ansible-role-locales
